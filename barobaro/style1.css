@@ -1,0 +1,35 @@
+.a1{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5%;
+}
+.a2{
+    font-size: larger;
+    padding: 5px;
+}
+.a4{
+    color: aqua;
+}
+.a5{
+    margin-left: 120px;
+    margin-top: -20px;
+}
+.a6{
+    margin-left: 35px;
+    margin-top: -20px;
+}
+.d1{
+    margin-top: 100px;
+    margin-left: 500px;
+    border-width: 5px;
+    border-radius: 5%;
+    background-color: blue;
+    width: 220px;
+    padding: 5px
+}
+.p1{
+    width: 30px;
+}
+.body{
+    background-color: hsl(217, 54%, 11%);
+}
